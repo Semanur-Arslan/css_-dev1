@@ -1,5 +1,6 @@
-#büyükbaşlık {
-    color: #AEBDCA;
-    font-family: EB Garamond regular;
-    font-size: 48px;
+#baslık {
+    color: aliceblue;
+    font-size: 64px;
+    font-family: EB Garamond Regular;
+    background-color: #A1C298;
 }
